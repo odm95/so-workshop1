@@ -18,4 +18,5 @@ Corta descripción de lo realizado en el taller
 
 ## Referencias
 
-Reerencias empleadas para la solución de las preguntas
+https://githun.com/ICESI/so-commands/tree/master/centos7
+
